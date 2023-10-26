@@ -1,0 +1,25 @@
+REQUIREMENTS
+1. Upload photoes
+2. Categorize photoes
+	a. Parties
+	b. Church
+	c. Funerals
+	d. Wedding
+	e. Sports
+	f. Entertainment
+3. User should Edit and also Add a Category
+4. Keep track of date and time photo has been uploaded
+5. Track location where photo has been taken (Apply later)
+6. 
+
+
+
+COMPONENTS
+1. Home Page
+2. Sign Up Page
+3. Login Page
+4. User Dashboard
+5. Notification(For Announcement)
+6. Chat Support
+7. Help center
+8. 
